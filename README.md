@@ -22,9 +22,9 @@ Full Stack Developer | Data Analytics
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharath-1114&show_icons=true&&hide=issues,contribs)
+![bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharath-1114&theme=dark&show_icons=true&&hide=issues,contribs)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/BHARATH_stark1114?theme=dark&font=Aldrich&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/BHARATH_stark1114?theme=dark&ext=heatmap)](https://leetcode.com/BHARATH_stark1114)
 
 [![Bharath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bharath-1114&bg_color=000000&color=dedede&line=800cb6&point=6a0f6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
