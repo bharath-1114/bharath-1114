@@ -26,7 +26,7 @@ Full Stack Developer | Data Analytics
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/BHARATH_stark1114?theme=dark&ext=heatmap)](https://leetcode.com/BHARATH_stark1114)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/@bharathstark1114)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/bharathstark1114)
 
 [![Bharath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bharath-1114&bg_color=000000&color=dedede&line=800cb6&point=6a0f6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
